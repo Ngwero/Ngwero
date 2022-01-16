@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ngwero
-- 👀 I’m interested in Javascript React, React Native 
+- 👀 I’m interested in Javascript React, React Native and wordpress
 - 🌱 Working at Home (Full time Freelancer)
 - 💞️ I’m looking to collaborate on  JavaScript  Open Source projects 
 - 📫 How to reach me (engwero@gmail.com,  +256705161161 )
